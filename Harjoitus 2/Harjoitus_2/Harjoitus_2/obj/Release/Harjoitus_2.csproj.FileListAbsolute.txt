@@ -1,0 +1,9 @@
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\bin\Release\Harjoitus_2.exe.config
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\bin\Release\Harjoitus_2.exe
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\bin\Release\Harjoitus_2.pdb
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\obj\Release\Harjoitus_2.memoryGameMain.resources
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\obj\Release\Harjoitus_2.Properties.Resources.resources
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\obj\Release\Harjoitus_2.csproj.GenerateResource.cache
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\obj\Release\Harjoitus_2.exe
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\obj\Release\Harjoitus_2.pdb
+E:\koulu\Ohjelmointityökalut\Harjoitus 2\Harjoitus_2\Harjoitus_2\obj\Release\Harjoitus_2.csprojAssemblyReference.cache
